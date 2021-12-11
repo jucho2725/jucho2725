@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jucho2725/jucho2725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m Graduate Student in SKKU
@@ -11,5 +8,4 @@ Here are some ideas to get you started:
   - Question Answering
   - Text data Augmentation
 - 📫 How to reach me: cju2725@gmail.com 
-
-- ⚡ Fun fact: ...
+- ⚡ See my resume if you are interested in : https://www.linkedin.com/in/jinukcho/

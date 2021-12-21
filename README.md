@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m Graduate Student in SKKU
 - 🌱 I’m currently interested in a variety of topic in NLP, specially:
   - Controllable Text Generation

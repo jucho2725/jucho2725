@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m Graduate Student in SKKU
-- 🌱 I’m currently interested in a variety of topic in NLP, specially:
+- 🔭 I’m AI/ML scientist in Papago, Naver
+- 🌱 I’m interested in a variety of topic in NLP, specially:
+  - Machine Translation
+  - Transfer Learning
   - Controllable Text Generation
-  - Question Answering
   - Text data Augmentation
-- 📫 How to reach me: cju2725@gmail.com 
+- 📫 How to reach me in personal: cju2725@gmail.com 
 - ⚡ See my resume if you are interested in : https://www.linkedin.com/in/jinukcho/
 
 
